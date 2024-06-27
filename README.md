@@ -8,3 +8,4 @@
  * [ ] Finish rustc_codegen_gcc sync
  * [ ] Improve integration of rustc_codegen_gcc into the Rust compiler
    * [Add support for downloading libgccjit.so file](https://github.com/rust-lang/rust/pull/124353)
+ * [ ] https://github.com/rust-lang/rust/issues/126638
