@@ -8,6 +8,7 @@
  * [ ] https://github.com/rust-lang/rust/issues/126638
  * [ ] https://github.com/rust-lang/rust/issues/67533 (https://github.com/rust-lang/rust/pull/128780)
  * [ ] https://github.com/rust-lang/rust/issues/50784
+ * [ ] Sort item kinds in impl (first comes types, then consts and finally functions)
 
 ## Finished
 
