@@ -14,6 +14,8 @@
  * [ ] [Cargo doc --examples doesn't pick up default features or report failure](https://github.com/rust-lang/rust/issues/130560)
  * [ ] [Add tidy check for missing {# #} tag in rustdoc templates](https://github.com/rust-lang/rust/issues/130559)
  * [ ] [rustdoc: make linking to examples easier and detect dead links](https://github.com/rust-lang/rust/issues/130493)
+ * [ ] [handle doc(hidden) differently in rustdoc](https://github.com/rust-lang/rust/issues/129415)
+ * [ ] [Add new rustdoc lint to detect if merged doctests failed to compile](https://github.com/rust-lang/rust/issues/127603)
  * [ ] [warn on strings that look like inline format strings but aren't](https://github.com/rust-lang/rust-clippy/issues/10195) (done in https://github.com/rust-lang/rust-clippy/pull/13410)
  * [x] Sort item kinds in impl (first comes types, then consts and finally functions) (done in https://github.com/rust-lang/rust/pull/129471)
  * [x] Migrate <docs.rs> to askama
