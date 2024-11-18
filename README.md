@@ -14,7 +14,8 @@
  * [ ] [handle doc(hidden) differently in rustdoc](https://github.com/rust-lang/rust/issues/129415)
  * [ ] [Add new rustdoc lint to detect if merged doctests failed to compile](https://github.com/rust-lang/rust/issues/127603)
  * [ ] [warn on strings that look like inline format strings but aren't](https://github.com/rust-lang/rust-clippy/issues/10195) (done in https://github.com/rust-lang/rust-clippy/pull/13410)
- * [ ] Improve float `Display` conversion
+ * [ ] Improve float `Display` conversion (checking how [ryu](https://crates.io/crates/ryu) does it)
+ * [ ] Add possibility to expand macro in rustdoc source code pages (add a button on the left of a line if there is a macro call)
  * [x] Sort item kinds in impl (first comes types, then consts and finally functions) (done in https://github.com/rust-lang/rust/pull/129471)
  * [x] Migrate <docs.rs> to askama
    * Lot of updates to [the askama crate](https://github.com/djc/askama/pulls/GuillaumeGomez)
