@@ -28,3 +28,4 @@
  * [x] Finish rustc_codegen_gcc sync
  * [x] [extra scraped examples height was increased without noticed](https://github.com/rust-lang/rust/issues/130562)
  * [x] [Add tidy check for missing {# #} tag in rustdoc templates](https://github.com/rust-lang/rust/issues/130559)
+ * [ ] [Long trait bounds don't get broken up in rustdoc](https://github.com/rust-lang/rust/issues/41333)
